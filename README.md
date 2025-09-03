@@ -115,6 +115,11 @@ Astro suit une structure de projet standard pour les applications web modernes. 
 #### \_Créer un dépôt sur GitHub
 
 #### \_Envoyez votre code local sur GitHub
+```bash
+git remote add origin https://github.com/denis-springinsfeld/Projet1.git
+git branch -M main
+git push -u origin main
+```
 
 #### \_Déployer votre site
 
