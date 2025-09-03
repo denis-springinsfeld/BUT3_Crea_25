@@ -1,0 +1,44 @@
+et# Node
+node_modules/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Env
+.env
+.env.*
+
+# Others
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Build
+/dist/
+/build/
+
+# Coverage
+coverage/
+*.lcov
+
+# System
+Thumbs.db
+Desktop.ini
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore test output
+/test-output/
