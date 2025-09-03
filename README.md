@@ -83,7 +83,6 @@ Ajouter un fichier`.prettierrc`:
 L'installation de votre projet Astro est maintenant terminée. Pour démarrer votre projet, accédez au répertoire de votre projet nouvellement créé et exécutez la commande suivante :
 
 ```bash
-  cd td_Astro
   npm run dev
 ```
 
