@@ -116,7 +116,7 @@ Astro suit une structure de projet standard pour les applications web modernes. 
 
 #### \_Envoyez votre code local sur GitHub
 ```bash
-git remote add origin https://github.com/denis-springinsfeld/Projet1.git
+git remote add origin https://github.com/[...]
 git branch -M main
 git push -u origin main
 ```
