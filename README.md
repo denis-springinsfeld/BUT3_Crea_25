@@ -80,7 +80,7 @@ Ajouter un fichier`.prettierrc`:
 
 #### \_Démarrer le serveur de développement
 
-L'installation de votre projet Astro est maintenant terminée. Pour démarrer votre projet, accédez au répertoire de votre projet nouvellement créé et exécutez la commande suivante :
+L'installation de votre projet Astro est maintenant terminée. Pour démarrer votre projet exécutez la commande suivante :
 
 ```bash
   npm run dev
